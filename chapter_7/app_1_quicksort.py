@@ -23,7 +23,7 @@ def partition(A, p, r):
     A[r] = A_tmp
     return i + 1
 
-A = [13, 19, 9, 5, 12, 8, 7, 4, 21, 2, 6, 11]
-print("initial array:", A)
-quicksort(A, 0, len(A) - 1)
-print("quicksort:", A)
+# A = [13, 19, 9, 5, 12, 8, 7, 4, 21, 2, 6, 11]
+# print("initial array:", A)
+# quicksort(A, 0, len(A) - 1)
+# print("quicksort:", A)
